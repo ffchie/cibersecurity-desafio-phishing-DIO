@@ -5,7 +5,7 @@ Simulação de ataque para captura de senhas da rede social Facebook como projet
 * Kali Linux
 * setoolkit
 
-* ## Configurando o Phishing no Kali Linux
+## Configurando o Phishing no Kali Linux
 * Acesso root: sudo su
 * Iniciando o setoolkit: setoolkit
 * Tipo de ataque: Social-Engineering Attacks
@@ -15,4 +15,4 @@ Simulação de ataque para captura de senhas da rede social Facebook como projet
 * Obtendo o endereço da máquina: ifconfig
 * URL para clone: http://www.facebook.com
 
-* ## Resultados
+## Resultados
